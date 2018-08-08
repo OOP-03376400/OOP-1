@@ -1,0 +1,6 @@
+D:\University\ООТП\labrab2\labrab2\bin\Debug\labrab2.exe.config
+D:\University\ООТП\labrab2\labrab2\bin\Debug\labrab2.exe
+D:\University\ООТП\labrab2\labrab2\bin\Debug\labrab2.pdb
+D:\University\ООТП\labrab2\labrab2\obj\Debug\labrab2.csprojResolveAssemblyReference.cache
+D:\University\ООТП\labrab2\labrab2\obj\Debug\labrab2.exe
+D:\University\ООТП\labrab2\labrab2\obj\Debug\labrab2.pdb
