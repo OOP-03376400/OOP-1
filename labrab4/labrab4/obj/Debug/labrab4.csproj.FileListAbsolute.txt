@@ -1,0 +1,13 @@
+D:\labrab4\labrab4\bin\Debug\labrab4.exe.config
+D:\labrab4\labrab4\bin\Debug\labrab4.exe
+D:\labrab4\labrab4\bin\Debug\labrab4.pdb
+D:\labrab4\labrab4\obj\Debug\labrab4.csprojResolveAssemblyReference.cache
+D:\labrab4\labrab4\obj\Debug\labrab4.csproj.CoreCompileInputs.cache
+D:\labrab4\labrab4\obj\Debug\labrab4.exe
+D:\labrab4\labrab4\obj\Debug\labrab4.pdb
+D:\University\ООТП\labrab4\labrab4\bin\Debug\labrab4.exe.config
+D:\University\ООТП\labrab4\labrab4\obj\Debug\labrab4.exe
+D:\University\ООТП\labrab4\labrab4\obj\Debug\labrab4.pdb
+D:\University\ООТП\labrab4\labrab4\bin\Debug\labrab4.exe
+D:\University\ООТП\labrab4\labrab4\bin\Debug\labrab4.pdb
+D:\University\ООТП\labrab4\labrab4\obj\Debug\labrab4.csprojResolveAssemblyReference.cache
