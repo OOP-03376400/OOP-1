@@ -1,0 +1,8 @@
+D:\University\ООТП\labrab3\labrab3\bin\Debug\labrab3.exe.config
+D:\University\ООТП\labrab3\labrab3\bin\Debug\labrab3.exe
+D:\University\ООТП\labrab3\labrab3\bin\Debug\labrab3.pdb
+D:\University\ООТП\labrab3\labrab3\obj\Debug\labrab3.csprojResolveAssemblyReference.cache
+D:\University\ООТП\labrab3\labrab3\obj\Debug\labrab3.exe
+D:\University\ООТП\labrab3\labrab3\obj\Debug\labrab3.pdb
+D:\University\ООТП\labrab3\labrab3\bin\Debug\System.ValueTuple.dll
+D:\University\ООТП\labrab3\labrab3\bin\Debug\System.ValueTuple.xml
