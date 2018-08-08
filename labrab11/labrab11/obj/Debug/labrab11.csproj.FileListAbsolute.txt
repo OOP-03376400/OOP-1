@@ -1,0 +1,7 @@
+D:\University\ООТП\labrab11\labrab11\bin\Debug\labrab11.exe.config
+D:\University\ООТП\labrab11\labrab11\bin\Debug\labrab11.exe
+D:\University\ООТП\labrab11\labrab11\bin\Debug\labrab11.pdb
+D:\University\ООТП\labrab11\labrab11\obj\Debug\labrab11.csprojResolveAssemblyReference.cache
+D:\University\ООТП\labrab11\labrab11\obj\Debug\labrab11.csproj.CoreCompileInputs.cache
+D:\University\ООТП\labrab11\labrab11\obj\Debug\labrab11.exe
+D:\University\ООТП\labrab11\labrab11\obj\Debug\labrab11.pdb
