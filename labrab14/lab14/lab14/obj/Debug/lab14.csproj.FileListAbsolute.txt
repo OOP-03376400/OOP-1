@@ -1,0 +1,14 @@
+C:\Users\rabts\source\repos\lab14\lab14\bin\Debug\lab14.exe.config
+C:\Users\rabts\source\repos\lab14\lab14\bin\Debug\lab14.exe
+C:\Users\rabts\source\repos\lab14\lab14\bin\Debug\lab14.pdb
+C:\Users\rabts\source\repos\lab14\lab14\obj\Debug\lab14.csprojResolveAssemblyReference.cache
+C:\Users\rabts\source\repos\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+C:\Users\rabts\source\repos\lab14\lab14\obj\Debug\lab14.exe
+C:\Users\rabts\source\repos\lab14\lab14\obj\Debug\lab14.pdb
+D:\University\ООТП\14лаб\lab14\lab14\lab14\bin\Debug\lab14.exe.config
+D:\University\ООТП\14лаб\lab14\lab14\lab14\bin\Debug\lab14.exe
+D:\University\ООТП\14лаб\lab14\lab14\lab14\bin\Debug\lab14.pdb
+D:\University\ООТП\14лаб\lab14\lab14\lab14\obj\Debug\lab14.csprojResolveAssemblyReference.cache
+D:\University\ООТП\14лаб\lab14\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+D:\University\ООТП\14лаб\lab14\lab14\lab14\obj\Debug\lab14.exe
+D:\University\ООТП\14лаб\lab14\lab14\lab14\obj\Debug\lab14.pdb

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product name = "Divan 1">
+    <producer>ikea</producer>
+    <price>12365</price>
+    <amount>12</amount>
+  </product>
+  <product name = "Divan 2">
+    <producer>jysk</producer>
+    <price>16765</price>
+    <amount>3</amount>
+  </product>
+</products>
